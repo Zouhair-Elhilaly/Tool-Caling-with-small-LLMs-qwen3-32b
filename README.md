@@ -4,6 +4,8 @@
 
 A modern **AI Assistant** powered by **Groq** (Qwen3-32B model) with **tool calling** capabilities. Features a sleek **FastAPI backend** and **responsive frontend** built with vanilla HTML/CSS/JS.
 
+<img  src="ScreenImage.png" width="800">
+
 ### ✨ Key Features
 
 - **Weather Tool**: Real-time weather via OpenWeatherMap API (`get_weather`)
